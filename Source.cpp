@@ -1,4 +1,4 @@
-// Muhammad Maaz 25i-3066
+// Urban Ease console base software for Analysis and management of the Stores spread across the entire nation
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
